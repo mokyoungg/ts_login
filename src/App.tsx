@@ -1,10 +1,10 @@
 import React from 'react';
-import Practice from './Practice';
+import SignUP from './SignUp';
 
 function App() {
   return (
     <div>
-      <Practice />
+      <SignUP />
     </div>
   );
 }
