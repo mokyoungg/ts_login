@@ -1,3 +1,4 @@
-# CRA + TypeScript + ESlint + Prettier
+# 타입스크립트로 회원가입 페이지 제작
 
-CRA + TS 환경에서 ESlint와 Prettier를 사용하기 위한 초기 세팅
+- React Hooks와 TS 사용
+- 커스텀 훅 연습
